@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ded09133da509b49826c4ed9c43f458, type: 3}
+  m_Name: SlimeData
+  m_EditorClassIdentifier: 
+  enemyName: Slime
+  maxHealth: 30
+  damage: 1
+  moveSpeed: 1
+  attackInterval: 1
+  attackRange: 0.5
+  moveFrames:
+  - {fileID: -963698817, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 1358170082, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 1728513520, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 953183929, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 1544682801, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 177739779, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  attackFrames:
+  - {fileID: -963698817, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 1358170082, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 1728513520, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 953183929, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 1544682801, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  - {fileID: 177739779, guid: 823da717ba6a31e47b3d3072b2702946, type: 3}
+  deathFrames:
+  - {fileID: -1796489707, guid: a3613eb9e40a6f34c93e188caeb06f8b, type: 3}
+  - {fileID: -102589979, guid: a3613eb9e40a6f34c93e188caeb06f8b, type: 3}
+  - {fileID: -816222451, guid: a3613eb9e40a6f34c93e188caeb06f8b, type: 3}
+  - {fileID: 2071220763, guid: a3613eb9e40a6f34c93e188caeb06f8b, type: 3}
+  - {fileID: 999892669, guid: a3613eb9e40a6f34c93e188caeb06f8b, type: 3}
+  - {fileID: 1675701942, guid: a3613eb9e40a6f34c93e188caeb06f8b, type: 3}
+  animationFrameDuration: 0.1
+  spawnTier: 1

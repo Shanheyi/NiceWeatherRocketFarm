@@ -1,0 +1,64 @@
+using UnityEngine;
+
+public class gosteavego : MonoBehaviour
+{
+    public float moveSpeed = 5f;
+    public int moveSpeedLevel = 0;
+    public int maxMoveSpeedLevel = 5;
+    public float moveSpeedPerLevel = 0.5f;
+    public int moveSpeedUpgradeCost = 150;
+
+    private Animator ani;
+    private Rigidbody2D rBody;
+
+    private void Start()
+    {
+        ani = GetComponent<Animator>();
+        rBody = GetComponent<Rigidbody2D>();
+    }
+
+    private void Update()
+    {
+        float horizontal = Input.GetAxisRaw("Horizontal");
+        float vertical = Input.GetAxisRaw("Vertical");
+
+        if (horizontal != 0)
+        {
+            ani.SetFloat("Horizontal", horizontal);
+            ani.SetFloat("Vertical", 0);
+        }
+
+        if (vertical != 0)
+        {
+            ani.SetFloat("Horizontal", 0);
+            ani.SetFloat("Vertical", vertical);
+        }
+
+        Vector2 direction = new Vector2(horizontal, vertical);
+        ani.SetFloat("Speed", direction.magnitude);
+        Move(direction);
+    }
+
+    private void Move(Vector2 direction)
+    {
+        rBody.MovePosition(rBody.position + direction * (moveSpeed * Time.deltaTime));
+    }
+
+    public bool UpgradeMoveSpeed()
+    {
+        if (moveSpeedLevel >= maxMoveSpeedLevel)
+        {
+            return false;
+        }
+
+        if (GameManager.Instance == null || !GameManager.Instance.SpendCoins(moveSpeedUpgradeCost))
+        {
+            return false;
+        }
+
+        moveSpeedLevel++;
+        moveSpeed += moveSpeedPerLevel;
+        moveSpeedUpgradeCost += 100;
+        return true;
+    }
+}

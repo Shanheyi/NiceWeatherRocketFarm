@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\project\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\upgradeshopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\upgradeshopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\unity\\project\\my project\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\dialoguesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dialoguesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\gosteavego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\gosteavego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\hotbarselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\hotbarselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\dialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\fieldunlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\fieldunlock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\toastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\toastmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\farmfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\farmfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\fence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\fence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\seedselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\seedselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\coindisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\coindisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\unity\\project\\My project\\assets\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToastManager.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\ToastManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ToastManager.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\ToastManager.cs",
+              "RelativeToolTip": "Assets\\ToastManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T14:57:24.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gosteavego.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\gosteavego.cs",
+              "RelativeDocumentMoniker": "Assets\\gosteavego.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\gosteavego.cs",
+              "RelativeToolTip": "Assets\\gosteavego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T18:39:27.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerInteraction.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\PlayerInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T16:16:25.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponData.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\WeaponData.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponData.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\WeaponData.cs",
+              "RelativeToolTip": "Assets\\WeaponData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T16:37:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DialogueTrigger.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\DialogueTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogueTrigger.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\DialogueTrigger.cs",
+              "RelativeToolTip": "Assets\\DialogueTrigger.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T17:12:18.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpgradeShopUI.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\UpgradeShopUI.cs",
+              "RelativeDocumentMoniker": "Assets\\UpgradeShopUI.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\UpgradeShopUI.cs",
+              "RelativeToolTip": "Assets\\UpgradeShopUI.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAiwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T09:01:13.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwH4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T13:19:14.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwIsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:18:09.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\AudioManager.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\AudioManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvywAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T13:21:56.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotbarSelector.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\HotbarSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\HotbarSelector.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\HotbarSelector.cs",
+              "RelativeToolTip": "Assets\\HotbarSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T09:30:47.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogueSystem.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\DialogueSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogueSystem.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\DialogueSystem.cs",
+              "RelativeToolTip": "Assets\\DialogueSystem.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T20:46:58.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoinDisplay.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\CoinDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\CoinDisplay.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\CoinDisplay.cs",
+              "RelativeToolTip": "Assets\\CoinDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T14:49:30.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeedSelector.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\SeedSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\SeedSelector.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\SeedSelector.cs",
+              "RelativeToolTip": "Assets\\SeedSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T14:52:49.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Fence.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\Fence.cs",
+              "RelativeDocumentMoniker": "Assets\\Fence.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\Fence.cs",
+              "RelativeToolTip": "Assets\\Fence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:38:57.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FieldUnlock.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\FieldUnlock.cs",
+              "RelativeDocumentMoniker": "Assets\\FieldUnlock.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\FieldUnlock.cs",
+              "RelativeToolTip": "Assets\\FieldUnlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T15:00:01.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\StartMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\StartMenu.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\StartMenu.cs",
+              "RelativeToolTip": "Assets\\StartMenu.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T17:36:44.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FarmField.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\FarmField.cs",
+              "RelativeDocumentMoniker": "Assets\\FarmField.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\FarmField.cs",
+              "RelativeToolTip": "Assets\\FarmField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T13:14:51.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimeManager.cs",
+              "DocumentMoniker": "D:\\unity\\project\\My project\\Assets\\TimeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TimeManager.cs",
+              "ToolTip": "D:\\unity\\project\\My project\\Assets\\TimeManager.cs",
+              "RelativeToolTip": "Assets\\TimeManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T12:37:38.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

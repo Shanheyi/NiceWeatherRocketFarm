@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6593f088ec05b1e458fee33040a8ab20, type: 3}
+  m_Name: ShotgunData
+  m_EditorClassIdentifier: 
+  weaponName: Shotgun
+  displayName: "\u9730\u5F39\u67AA"
+  damage: 8
+  fireRate: 0.8
+  bulletSpeed: 30
+  bulletCount: 5
+  spread: 15
+  isAutomatic: 0
+  isExplosive: 0
+  explosionRadius: 1.5
+  unlockCost: 400
+  weaponSprite: {fileID: 21300000, guid: 2c176c8e6e7ab4e43b5e19c4e4844e36, type: 3}
+  lockedIcon: {fileID: -2045804530, guid: c838443b47b72d647abe20edb3a1f1f3, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: 14035f2ebfc5f3d44b0315eff34f6aa9, type: 3}

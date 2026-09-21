@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ded09133da509b49826c4ed9c43f458, type: 3}
+  m_Name: WolfData
+  m_EditorClassIdentifier: 
+  enemyName: Wolf
+  maxHealth: 50
+  damage: 2
+  moveSpeed: 1
+  attackInterval: 0.8
+  attackRange: 0.5
+  moveFrames:
+  - {fileID: 1624310307, guid: b17047d9dc5ed324baf02a30bb406bf3, type: 3}
+  - {fileID: 452893038, guid: b17047d9dc5ed324baf02a30bb406bf3, type: 3}
+  - {fileID: -782112142, guid: b17047d9dc5ed324baf02a30bb406bf3, type: 3}
+  - {fileID: 778110448, guid: b17047d9dc5ed324baf02a30bb406bf3, type: 3}
+  - {fileID: -566233209, guid: b17047d9dc5ed324baf02a30bb406bf3, type: 3}
+  - {fileID: -1524698999, guid: b17047d9dc5ed324baf02a30bb406bf3, type: 3}
+  attackFrames:
+  - {fileID: -349593743, guid: fc2a341bf38757d498d032102e696c76, type: 3}
+  - {fileID: 247621830, guid: fc2a341bf38757d498d032102e696c76, type: 3}
+  - {fileID: -770758712, guid: fc2a341bf38757d498d032102e696c76, type: 3}
+  - {fileID: -679047697, guid: fc2a341bf38757d498d032102e696c76, type: 3}
+  - {fileID: -999992340, guid: fc2a341bf38757d498d032102e696c76, type: 3}
+  - {fileID: -1527170530, guid: fc2a341bf38757d498d032102e696c76, type: 3}
+  deathFrames:
+  - {fileID: -1185790500, guid: 7821f5f026fc9bc41912439419278660, type: 3}
+  - {fileID: 2028973656, guid: 7821f5f026fc9bc41912439419278660, type: 3}
+  - {fileID: 699603286, guid: 7821f5f026fc9bc41912439419278660, type: 3}
+  - {fileID: -354456982, guid: 7821f5f026fc9bc41912439419278660, type: 3}
+  - {fileID: -846230701, guid: 7821f5f026fc9bc41912439419278660, type: 3}
+  - {fileID: -1017911718, guid: 7821f5f026fc9bc41912439419278660, type: 3}
+  animationFrameDuration: 0.1
+  spawnTier: 3

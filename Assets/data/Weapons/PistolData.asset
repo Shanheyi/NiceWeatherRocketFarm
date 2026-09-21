@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6593f088ec05b1e458fee33040a8ab20, type: 3}
+  m_Name: PistolData
+  m_EditorClassIdentifier: 
+  weaponName: Pistol
+  displayName: "\u624B\u67AA"
+  damage: 10
+  fireRate: 0.4
+  bulletSpeed: 30
+  bulletCount: 1
+  spread: 0
+  isAutomatic: 0
+  unlockCost: 0
+  weaponSprite: {fileID: 21300000, guid: 16ef7938f573c85489d9f0aa41741ce5, type: 3}
+  lockedIcon: {fileID: -2045804530, guid: c838443b47b72d647abe20edb3a1f1f3, type: 3}
+  unlockedIcon: {fileID: 21300000, guid: 16ef7938f573c85489d9f0aa41741ce5, type: 3}
