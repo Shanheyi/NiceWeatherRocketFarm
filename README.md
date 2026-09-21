@@ -52,6 +52,8 @@ Packages/ # 依赖包
 打开 Assets/Scenes/SampleScene.unity
 点 Play 运行
 
+📥 下载
+Itch.io：https://shanheyi.itch.io/niceweatherrocketfarm
 
 作者
 郑洪博
